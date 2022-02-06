@@ -25,8 +25,8 @@ public:
 
 	vector<Actor*>ActorList;
 
-	int Row = 30;
-	int Column = 30;
+	int Row = 10;
+	int Column = 10;
 
 	//string map[10][10] =
 	//{	{"Wall","Wall","Wall","Wall","Wall","Wall","Wall","Wall","Wall","Wall"},
